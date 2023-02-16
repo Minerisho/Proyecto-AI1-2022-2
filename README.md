@@ -8,7 +8,7 @@
 
 *Objetivo:* Predecir el valor de la compra de un cliente, a partir de los datos extraídos de múltiples cotizaciones pasadas.
 
-*Dataset:* <a href="https://docs.google.com/spreadsheets/d/12Z09MA6CkqgtsLvOwjH0hZUbKsktpG-W/edit?usp=share_link&ouid=115662212600004285289&rtpof=true&sd=true"> Link </a> Hecho por los estudiantes
+*Dataset:* <a href="https://drive.google.com/file/d/1QHnBDLKmgFJHb45_nGCyQMnkjGPVLTlP/view?usp=share_link"> Link </a> Hecho por los estudiantes
 
 *Palabras clave:* Regresión, Random Tree Regressor, Cross Validation, Random Forest Regressor
 
