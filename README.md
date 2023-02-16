@@ -12,9 +12,9 @@
 
 *Palabras clave:* Regresión, Random Tree Regressor, Cross Validation, Random Forest Regressor
 
-Código:
+Código: <a href="https://colab.research.google.com/drive/1I8ByPJmZvj9Zn8_btw-RhGlc15Cfv5Db?usp=share_link"> Link </a>
 
 Video:
 
-Repositorio:
+Repositorio: <a href="https://github.com/Minerisho/Proyecto-AI1-2022-2"> Link </a>
 
