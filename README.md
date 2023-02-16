@@ -10,7 +10,7 @@
 
 *Dataset:* <a href="https://drive.google.com/file/d/1QHnBDLKmgFJHb45_nGCyQMnkjGPVLTlP/view?usp=share_link"> Link </a> Hecho por los estudiantes
 
-*Palabras clave:* Regresión, Random Tree Regressor, Cross Validation, Random Forest Regressor
+*Palabras clave:* Regresión, Random Tree Regressor, Cross Validation, Random Forest Regressor, Support Vector Regressor
 
 Código: <a href="https://colab.research.google.com/drive/1I8ByPJmZvj9Zn8_btw-RhGlc15Cfv5Db?usp=share_link"> Link </a>
 
