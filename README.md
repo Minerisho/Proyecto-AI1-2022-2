@@ -1,7 +1,7 @@
 # Predicción de compra por cliente a partir de cotizaciones de una empresa
 
 
-<img src="https://github.com/Minerisho/Proyecto-AI1-2022-2/blob/main/Banner.jpg?raw=true">
+<center> <img src="https://github.com/Minerisho/Proyecto-AI1-2022-2/blob/main/Banner.jpg?raw=true" width="800px" height="300px"> </center>
 
 
 Autores: Miguel Ángel Plata Rodríguez, Adriana Marcela Cujia Reyes, Sebastían Suarez.
